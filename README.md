@@ -4,7 +4,7 @@ Some reuirements to run this project is
 
 <ul>
 <li>Xamp</li>
-<li>Php 5.6 or above</li
+<li>Php 5.6 or above</li>
 <li>Mysql</li>>
 </ul>
 <p>Steps to run this project</p>
