@@ -5,12 +5,12 @@ Some reuirements to run this project is
 <ul>
 <li>Xamp</li>
 <li>Php 5.6 or above</li>
-<li>Mysql</li>>
+<li>Mysql</li>
 </ul>
 <p>Steps to run this project</p>
 <ol>
 <li>Install Xampp</li>
-<li>Copy project to htdocs inside xampp folder</li>
+<li>Copy project to htdocs inside xampp folder on c drive</li>
 <li>Restore food.sql file from phpadmin</li>
 <li>Type localhost/food in url to run project</li>
 
