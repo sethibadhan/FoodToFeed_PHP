@@ -12,6 +12,7 @@ Some reuirements to run this project is
 <li>Install Xampp</li>
 <li>Copy project to htdocs inside xampp folder</li>
 <li>Restore food.sql file from phpadmin</li>
-<li>Type localhost in url to run project</li>
+<li>Type localhost/food in url to run project</li>
 
 </ol>
+<p>Database restore is essential to run this project as it will create the necessary tables</p>
